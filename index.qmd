@@ -21,10 +21,12 @@ about:
       href: https://shotclockblog.wordpress.com/
 ---
 
-> The Lord will never lead us astray and He is always with us.
-- Spencer, 21 Sep 2023
+> The Lord will never lead us astray and He is always with us. - Spencer, 21 Sep 2023
 
-> 夫唯弗居, 是以不去 (머무르지 않으니, 떠나지도 않는다)^[https://ko.wikisource.org/wiki/%EB%B2%88%EC%97%AD:%EB%8F%84%EB%8D%95%EA%B2%BD]
-- Book of the Way and Virtue
+> 夫唯弗居, 是以不去 (머무르지 않으니, 떠나지도 않는다)[^1] - 道德經, Chapter 2, \~ 400 B.C, before Christ
+
+[^1]: https://ko.wikisource.org/wiki/%EB%B2%88%EC%97%AD:%EB%8F%84%EB%8D%95%EA%B2%BD
+
+> ***Always in our Hearts***
 
 ![](flag.jpeg)
