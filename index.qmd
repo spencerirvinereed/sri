@@ -1,0 +1,24 @@
+---
+title: "Spencer Reed Irvine"
+image: kristy2-EDIT.jpg
+
+about:
+  template: jolla
+  image-width: 25em
+  image-shape: rounded
+  links:
+    - icon: github
+      text: Spencer's Life
+      href: https://spencerirvinereed.github.io/spencer/
+    - icon: newspaper
+      text: AIA Writing
+      href: https://spencerirvinereed.github.io/aia/
+    - icon: archive
+      text: Deseret News Editorial - 12 Jan 2023
+      href: https://www.deseret.com/authors/spencer-irvine
+    - icon: clipboard2
+      text: Shotclock Blog
+      href: https://shotclockblog.wordpress.com/
+---
+
+> ***Always in our Hearts*****...**
