@@ -1,9 +1,9 @@
 ---
 title: "About"
+image: kristy2-EDIT.jpg
 ---
 
-About this site
+Life and writings of Spencer Irvine : 13 Feb 1988 - 24 Sep 2023
 
-```{r}
-1 + 1
-```
+![](kristy2-EDIT.jpg)
+![](mtn.jpeg)

@@ -1,6 +1,5 @@
 ---
 title: "Spencer Reed Irvine"
-image: kristy2-EDIT.jpg
 
 about:
   template: jolla
@@ -14,6 +13,9 @@ about:
       text: AIA Writing
       href: https://spencerirvinereed.github.io/aia/
     - icon: archive
+      text: Americans for Fair Treatment Writing
+      href: https://americansforfairtreatment.org/?s=spencer+irvine
+    - icon: newspaper
       text: Deseret News Editorial - 12 Jan 2023
       href: https://www.deseret.com/authors/spencer-irvine
     - icon: clipboard2
