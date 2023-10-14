@@ -12,6 +12,9 @@ about:
     - icon: newspaper
       text: AIA Writing
       href: https://spencerirvinereed.github.io/aia/
+    - icon: newspaper
+      text: AIM Writing
+      href: https://spencerirvinereed.github.io/aim/
     - icon: archive
       text: Americans for Fair Treatment Writing
       href: https://americansforfairtreatment.org/?s=spencer+irvine
